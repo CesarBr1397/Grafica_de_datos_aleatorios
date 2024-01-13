@@ -19,15 +19,8 @@
 <ol>
     <li><strong>Ejecuta el Programa:</strong></li>
     <ul>
-        <li>Asegúrate de tener Python instalado.</li>
-        <li>Navega al directorio del proyecto.</li>
+        <li>Asegúrate de tener Python instalado y las librerias necesarias para visualizarlo.</li>
         <li>Ejecuta el programa.</li>
-    </ul>
-
-    <li><strong>Visualiza los Resultados:</strong></li>
-    <ul>
-        <li>Observa cómo las canicas encuentran su camino a través de la simulación.</li>
-        <li>Maravíllate con el histograma que representa la distribución final.</li>
     </ul>
 </ol>
 
